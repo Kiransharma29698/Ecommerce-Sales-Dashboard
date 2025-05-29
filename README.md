@@ -27,7 +27,6 @@ COD Dominance: 44% of orders use Cash on Delivery (COD), indicating strong custo
 Payment Mix: UPI (21%), Credit/Debit (12-13%), and COD (44%) are the top payment methods.
 Sales Performance: ₹438K total sales, ₹37K profit, with 121K units sold.
 
-Snapshot of shyam Ecommerce sales dashboard----https://github.com/Kiransharma29698/Ecommerce-Sales-Dashboard/blob/main/Snapshot%20Ecommerce%20Sales%20dashboard.png
 Top States: Maharashtra leads in sales, followed by Madhya Pradesh & Uttar Pradesh.
 Category Trends: Electronics (21%) sells the most, followed by Furniture (17%).
 Profitable Products: Printers & Bookcases contribute significantly to profits.
@@ -45,4 +44,6 @@ Boost Prepaid: UPI cashback campaigns ("Pay via UPI, get ₹50 off").
 Retain Top Customers: Loyalty rewards for  Harivansh, Madhav, Madan, Shiva (e.g., early access to sales).
 Geo-Targeting: Double down on Maharashtra, MP, UP (localized ads/offers).
 High-Profit Focus: Bundle Printers + Bookcases with Electronics.
+
+Snapshot of shyam Ecommerce sales dashboard----https://github.com/Kiransharma29698/Ecommerce-Sales-Dashboard/blob/main/Snapshot%20Ecommerce%20Sales%20dashboard.png
 
